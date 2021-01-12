@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzair-ali10" alt="uzair-ali10" /></a> </p>
 
-- 👨‍💻learning I’m currently **Wrestling with Data Structures and Algorithms**
+- 👨‍💻 I’m currently **Wrestling with Data Structures and Algorithms**
 
 - ⚡Occasionally I **Mine Cryptocurrency**
 
