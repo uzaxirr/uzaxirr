@@ -51,7 +51,7 @@ A 1st year B.Tech lad who is a passionate python developer, ML Enthusiast and a 
 
 ## 👯 I’m looking to collaborate on
 
-* For doing projects on **Computer Vision.
+* For doing projects on **Computer Vision**.
 * For doing projects related to **TF-Lite**.
 * For working on end to end TF integrated mobile applications
 
