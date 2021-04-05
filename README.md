@@ -1,24 +1,71 @@
-<h1 align="center">Hey There 👋, I'm Uzair!</h1>
-<h3 align="center">A 1st year B.Tech lad who is a passionate python developer and a cloud enthusiast</h3>
+# Hello, I am Uzair <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzair-ali10" alt="uzair-ali10" /></a> </p>
+![](https://activity-graph.herokuapp.com/graph?username=uzair-ali10&theme=dracula)
 
-- 👨‍💻 I’m currently **Wrestling with Data Structures and Algorithms**
+<img height=200 width=350 src="avatar.png">
 
-- ⚡Occasionally I **Mine Cryptocurrency**
+## About
 
-- 📫 you can reach me at **the.uzairali10@gmail.com**
+A 1st year B.Tech lad who is a passionate python developer, ML Enthusiast and a cloud Wizard
+## 📫 How to reach me:
 
-- Fun fact **I think I'm funny :)**
+<table>
+  <tr>
+    <a href="https://www.linkedin.com/in/uzair-ali-9285261ba/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <td><a href="mailto:the.uzairali10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a></td>
+  <a href="https://www.instagram.com/zohan.ali__/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/uzair-ali-9285261ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="uzair-ali-9285261ba" height="30" width="40" /></a>
-<a href="https://instagram.com/zohan.ali__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zohan.ali__" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/uzair_ali10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="uzair_ali10" height="30" width="40" /></a>
-</p>
+### Languages and Tools:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+ <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+
+
+## 🔭 I’m currently working on
+* image Optimisation using TF and OpenCV
+* Disease predection ML-Model
+* Flutter to integrate TF-Lite Models
+
+## 🌱 I’m currently learning
+
+* I am exploring and learning more things in the domain of Deep Learning with [Tensorflow](https://www.tensorflow.org). I have some experience with Machine Learning and Deep Learning. I am focusing more to do end to end projects on Machine Learning and Deep Learning.
+
+* Data Structures and Algorithms
+
+## 👯 I’m looking to collaborate on
+
+* For doing projects on **Computer Vision.
+* For doing projects related to **TF-Lite**.
+* For working on end to end TF integrated mobile applications
+
+<a href="https://github.com/uzair-ali10">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=uzair-ali10&show_icons=true&theme=dark&line_height=27" alt="Uzair's github stats"/>
+</a>
+
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=uzair-ali10" alt="devded" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzair-ali10&show_icons=true&locale=en&layout=compact" alt="uzair-ali10" /></p>
+
+<div align="center">
+  
+### Show some ❤️ by starring some of the repositories!
+
+</div>
