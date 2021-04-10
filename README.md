@@ -1,6 +1,6 @@
 # Hello, I am Uzair <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-![Uzair's github activity graph](https://activity-graph.herokuapp.com/graph?username=uzair-ali10&theme=react-dark&hide_border=1)
+![Uzair's github activity graph](https://activity-graph.herokuapp.com/graph?username=uzair-ali10&theme=react-dark&hide_border=true)
 
 <img height=200 width=350 src="avatar.png">
 
