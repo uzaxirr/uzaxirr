@@ -29,17 +29,17 @@ A 1st year B.Tech lad who is a passionate python developer, ML Enthusiast and a 
   ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-* Cloud or Hosting services
+* Cloud and Hosting services
 
   ![image](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
-* Frameworks
+* Frameworks (Backend)
 
   <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-* Version Control or DevOps
+* Version Control System or DevOps
 
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
@@ -51,7 +51,7 @@ A 1st year B.Tech lad who is a passionate python developer, ML Enthusiast and a 
 
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-* CI
+* CI (Continous integration) / CD (Continuous delivery)
 
   <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 
@@ -76,7 +76,7 @@ A 1st year B.Tech lad who is a passionate python developer, ML Enthusiast and a 
 
 * Data Structures and Algorithms
 
-## 👯 I’m looking to collaborate on
+## 👯 I’m open to collaborate on
 
 * For doing projects on **Computer Vision**.
 * For doing projects related to **TF-Lite**.
