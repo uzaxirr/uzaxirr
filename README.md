@@ -1,12 +1,12 @@
 # Hello, I am Uzair <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-![Uzair's github activity graph](https://activity-graph.herokuapp.com/graph?username=uzair-ali10&theme=react-dark&hide_border=true&area=true)
+![Uzair's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=uzair-ali10&theme=react-dark&hide_border=true&area=true)
 
 <img height=200 width=350 src="avatar.png">
 
 ## About
 
-A 1st year B.Tech lad who is a passionate python developer, ML Enthusiast and a cloud Wizard
+A 1st-year B.Tech lad who is a passionate Python developer, ML Enthusiast and a cloud Wizard
 
 ❄️ I'm a self-taught Developer
 ## 📫 Reach me at:
@@ -35,10 +35,6 @@ A 1st year B.Tech lad who is a passionate python developer, ML Enthusiast and a 
   ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
-* Frameworks (Backend)
-
-  <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-  <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 * Version Control System and DevOps
 
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -67,7 +63,7 @@ A 1st year B.Tech lad who is a passionate python developer, ML Enthusiast and a 
 
 ## 🔭 I’m currently working on
 * image Optimisation using TF and OpenCV
-* Disease predection ML-Model
+* Disease prediction ML-Model
 * Flutter to integrate TF-Lite Models
 
 ## 🌱 I’m currently learning
