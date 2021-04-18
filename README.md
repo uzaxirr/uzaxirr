@@ -90,6 +90,9 @@ A 1st-year B.Tech lad who is a passionate Python developer, ML Enthusiast and a 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzair-ali10&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=1&title_color=2EDDD5"" alt="uzair-ali10" /></p>
 
 <div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 ### Show some ❤️ by starring some of the repositories!
 
