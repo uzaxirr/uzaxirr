@@ -4,7 +4,7 @@
 
 <img height=200 width=350 src="avatar.png">
 
-## About
+## About Me
 
 A 1st-year B.Tech lad who is a passionate Python developer, ML Enthusiast and a cloud Wizard
 
