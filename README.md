@@ -20,6 +20,9 @@ A 1st-year B.Tech lad who is a passionate Python developer, ML Enthusiast and a 
   <a href="https://www.instagram.com/zohan.ali__/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+    <a href="https://leetcode.com/uzair-ali10/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />        
+  </a>&nbsp;&nbsp;
 </table>
 
 ### My Tech-Stack:
@@ -28,7 +31,10 @@ A 1st-year B.Tech lad who is a passionate Python developer, ML Enthusiast and a 
   ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+  ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
 * Cloud and Hosting services
 
   ![image](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -43,9 +49,18 @@ A 1st-year B.Tech lad who is a passionate Python developer, ML Enthusiast and a 
   <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
+* Backend Frameworks
+  ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+  ![image](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+  ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+
+
 * Database
 
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 * CI (Continous integration) / CD (Continuous delivery)
 
@@ -62,21 +77,21 @@ A 1st-year B.Tech lad who is a passionate Python developer, ML Enthusiast and a 
  
 
 ## 🔭 I’m currently working on
-* image Optimisation using TF and OpenCV
-* Disease prediction ML-Model
-* Flutter to integrate TF-Lite Models
+* [talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
+* [https://shorten.codes](https://shorten.codes)
+* [https://30dayscoding.com](https://30dayscoding.com)
 
 ## 🌱 I’m currently learning
 
-* I am exploring and learning more things in the domain of Deep Learning with [Tensorflow](https://www.tensorflow.org). I have some experience with Machine Learning and Deep Learning. I am focusing more to do end to end projects on Machine Learning and Deep Learning.
+* GraphQL
 
-* Data Structures and Algorithms
+* Building Awsome Web-Apps
 
 ## 👯 I’m open to collaborate on
 
-* For doing projects on **Computer Vision**.
+* Building **APIs for Web-Apps**.
 * For doing projects related to **TF-Lite**.
-* For working on end to end TF integrated mobile applications
+* For working on end to end **Machine Learning integrated Web-Applications**
 
 <a href="https://github.com/uzair-ali10">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uzair-ali10&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Uzair's github stats"/>
@@ -90,18 +105,6 @@ A 1st-year B.Tech lad who is a passionate Python developer, ML Enthusiast and a 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzair-ali10&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=1&title_color=2EDDD5"" alt="uzair-ali10" /></p>
 
 <div align="center">
-  
-  
-## 📌 My Wakatime Stats
-<!--START_SECTION:waka-->
-```text
-Other      54 hrs 36 mins  █████████████████████▒░░░   85.28 % 
-Python     4 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-C          2 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Markdown   54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-C++        41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-```
-<!--END_SECTION:waka-->
   
 ### Show some ❤️ by starring some of the repositories!
 
