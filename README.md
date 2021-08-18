@@ -9,7 +9,7 @@
 A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud Wizard
 
 ❄️ I'm a self-taught Developer
-## 📫 Reach me at:
+## 📫 Find me at:
 
 <table>
   <tr>
