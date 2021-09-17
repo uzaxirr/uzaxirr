@@ -82,6 +82,9 @@ A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud
 
 # Blog posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [REST APIs and Architecture - 101](https://dev.to/uzairali10/rest-apis-and-architecture-101-236f)
+- [Hyper-Text Transfer
+Protocol - HTTP 101](https://dev.to/uzairali10/hyper-text-transfer-protocol-http-101-4jp4)
 <!-- BLOG-POST-LIST:END -->
 
 
