@@ -77,8 +77,13 @@ A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud
 ## 🌱 I’m currently learning
 
 * GraphQL
-
 * Building Awsome Web-Apps
+* Django
+
+# Blog posts 📝
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ## 👯 I’m open to collaborate on
 
