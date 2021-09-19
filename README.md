@@ -82,6 +82,7 @@ A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud
 
 # Blog posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Load balancer - 101](https://dev.to/uzairali10/load-balancer-101-4jl9)
 - [System Design - 101](https://dev.to/uzairali10/system-design-101-170o)
 - [REST APIs and Architecture - 101](https://dev.to/uzairali10/rest-apis-and-architecture-101-236f)
 - [Hyper-Text Transfer
