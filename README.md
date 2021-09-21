@@ -82,11 +82,12 @@ A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud
 
 # Blog posts 📝
 <!-- BLOG-POST-LIST:START -->
-- [Trying Out Dev.to API](https://dev.to/uzairali10/trying-out-dev-to-api-3hd4)
 - [Hello, World!](https://dev.to/uzairali10/hello-world-ikf)
 - [Load Balancer - 101](https://dev.to/uzairali10/load-balancer-101-4jl9)
 - [System Design - 101](https://dev.to/uzairali10/system-design-101-170o)
 - [REST APIs and Architecture - 101](https://dev.to/uzairali10/rest-apis-and-architecture-101-236f)
+- [Hyper-Text Transfer
+Protocol - HTTP 101](https://dev.to/uzairali10/hyper-text-transfer-protocol-http-101-4jp4)
 <!-- BLOG-POST-LIST:END -->
 
 
