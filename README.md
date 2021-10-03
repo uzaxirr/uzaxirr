@@ -2,7 +2,7 @@
 
 ![Uzair's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=uzair-ali10&theme=react-dark&hide_border=true&area=true)
 
-<img height=200 width=350 src="avatar.png">
+
 
 ## About Me
 
@@ -16,10 +16,7 @@ A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud
     <a href="https://www.linkedin.com/in/uzair-ali-9285261ba/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-   <td><a href="mailto:the.uzairali10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a></td>
-  <a href="https://www.instagram.com/zohan.ali__/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+   <td><ahref="mailto:the.uzairali10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
     <a href="https://leetcode.com/uzair-ali10/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />        
   </a>&nbsp;&nbsp;
