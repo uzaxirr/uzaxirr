@@ -67,7 +67,7 @@ A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud
  
 
 ## 🔭 I’m currently working on
-* [integrate.io](https://github.com/integrate-io/)
+* [integrateme.co](https://github.com/integrateme-co/)
 * [talawa-api](https://github.com/PalisadoesFoundation/talawa-api)
 * [https://shorten.codes](https://shorten.codes)
 * [https://30dayscoding.com](https://30dayscoding.com)
