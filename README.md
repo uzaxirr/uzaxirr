@@ -27,12 +27,6 @@ A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-* Cloud and Hosting services
-
-  ![image](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
 
 * Backend Frameworks
 
@@ -51,11 +45,18 @@ A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud
   ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-* CI (Continous integration) / CD (Continuous delivery)
+* CI/CD
   
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
   <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+
+
+* Cloud and Hosting services
+
+  ![image](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 
 ## 🔭 I’m currently working on
@@ -67,7 +68,6 @@ A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud
 ## 🌱 I’m currently learning
 
 * GraphQL
-* Building Awsome Web-Apps
 * Django
 
 # Blog posts 📝
@@ -79,12 +79,6 @@ A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud
 - [System Design - 101](https://dev.to/uzairali10/system-design-101-170o)
 <!-- BLOG-POST-LIST:END -->
 
-
-## 👯 I’m open to collaborate on
-
-* Building **APIs for Web-Apps**.
-* For doing projects related to **TF-Lite**.
-* For working on end to end **Machine Learning integrated Web-Applications**
 
 <a href="https://github.com/uzair-ali10">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uzair-ali10&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Uzair's github stats"/>
