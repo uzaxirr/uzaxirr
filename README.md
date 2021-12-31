@@ -1,11 +1,10 @@
 # Hello, I am Uzair <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-![Uzair's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=uzair-ali10&theme=react-dark&hide_border=true&area=true)
+![Uzair's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=uzaxirr&theme=react-dark&hide_border=true&area=true)
 
 
 
 ## About Me
-
 A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud Wizard
 
 ❄️ I'm a self-taught Developer
@@ -13,7 +12,7 @@ A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud
 
 <table>
   <tr>
-    <a href="https://www.linkedin.com/in/uzair-ali-9285261ba/">
+    <a href="https://www.linkedin.com/in/uzaxirr-9285261ba/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
    <td><ahref="mailto:the.uzairali10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
@@ -81,16 +80,16 @@ A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud
 <!-- BLOG-POST-LIST:END -->
 
 
-<a href="https://github.com/uzair-ali10">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=uzair-ali10&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Uzair's github stats"/>
+<a href="https://github.com/uzaxirr">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=uzaxirr&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Uzair's github stats"/>
 </a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uzair-ali10&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uzaxirr&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=uzair-ali10" alt="devded" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=uzaxirr" alt="devded" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzair-ali10&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=1&title_color=2EDDD5"" alt="uzair-ali10" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzaxirr&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=1&title_color=2EDDD5"" alt="uzaxirr" /></p>
 
 <div align="center">
   
