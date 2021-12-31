@@ -72,11 +72,11 @@ A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud
 
 # Blog posts 📝
 <!-- BLOG-POST-LIST:START -->
-- [Tool to Cross-Post Your Blogs in One Click](https://dev.to/uzairali10/tool-to-cross-post-your-blogs-in-one-click-3n04)
-- [Caching - 101](https://dev.to/uzairali10/caching-101-3agp)
-- [Client and Server Side Architecture](https://dev.to/uzairali10/client-and-server-side-architecture-4i67)
-- [Load Balancer - 101](https://dev.to/uzairali10/load-balancer-101-4jl9)
-- [System Design - 101](https://dev.to/uzairali10/system-design-101-170o)
+- [Tool to Cross-Post Your Blogs in One Click](https://dev.to/uzaxirr/tool-to-cross-post-your-blogs-in-one-click-3n04)
+- [Caching - 101](https://dev.to/uzaxirr/caching-101-3agp)
+- [Client and Server Side Architecture](https://dev.to/uzaxirr/client-and-server-side-architecture-4i67)
+- [Load Balancer - 101](https://dev.to/uzaxirr/load-balancer-101-4jl9)
+- [System Design - 101](https://dev.to/uzaxirr/system-design-101-170o)
 <!-- BLOG-POST-LIST:END -->
 
 
