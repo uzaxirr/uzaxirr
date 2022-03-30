@@ -5,7 +5,7 @@
 
 
 ## About Me
-A 2nd-year B.Tech lad who is a passionate Backend Dev, ML Enthusiast and a cloud Wizard
+A 2nd-year B.Tech lad who is a passionate Backend Dev and a cloud Wizard
 
 ❄️ I'm a self-taught Developer
 ## 📫 Find me at:
