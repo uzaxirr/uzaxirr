@@ -1,6 +1,6 @@
 # Hello, I am Uzair <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-![Uzair's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=uzaxirr&theme=react-dark&hide_border=true&area=true)
+[![Uzair's GitHub activity graph]([https://activity-graph.herokuapp.com/graph?username=uzaxirr&theme=react-dark&hide_border=true&area=true](https://github-readme-activity-graph.cyclic.app/graph?username=uzaxirr&bg_color=0d1116&color=01add8&line=0089d6&point=f2f2f2&area=true&hide_border=true))](https://github-readme-activity-graph.cyclic.app/graph?username=uzaxirr&bg_color=0d1116&color=01add8&line=0089d6&point=f2f2f2&area=true&hide_border=true)
 
 
 
