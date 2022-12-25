@@ -5,14 +5,14 @@
 
 
 ## About Me
-A 2nd-year B.Tech lad who is a passionate Backend Dev and a cloud Wizard
+I work at [HackerRank](https://www.hackerrank.com/) as an SDE Intern, Regularly plays with backend and cloud. Loves building and breaking stuff
 
 ❄️ I'm a self-taught Developer
 ## 📫 Find me at:
 
 <table>
   <tr>
-    <a href="https://www.linkedin.com/in/uzaxirr-9285261ba/">
+    <a href="https://www.linkedin.com/in/uzaxirr/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
    <td><ahref="mailto:the.uzairali10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
@@ -20,17 +20,20 @@ A 2nd-year B.Tech lad who is a passionate Backend Dev and a cloud Wizard
 
 ### My Tech-Stack:
 * Languages and Tools
-
-  ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  
   ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+  ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  
+
 
 
 * Backend Frameworks
 
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
