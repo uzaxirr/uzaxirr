@@ -5,7 +5,8 @@
 
 
 ## About Me
-I work at [HackerRank](https://www.hackerrank.com/) as an SDE Intern, Regularly plays with backend and cloud. Loves building and breaking stuff
+I work at [FamPay](https://www.fampay.in/) as an Backend Intern, Regularly plays with backend and cloud. Loves building and breaking stuff.
+Previously I used to work at [HackerRank](https://www.hackerrank.com/)
 
 ❄️ I'm a self-taught Developer
 ## 📫 Find me at:
